@@ -5,7 +5,7 @@ project:
 website:
   title: "The Winter Lab"
   description: "Department of Epidemiology and Biostatistics | College of Public Health | University of Georgia"
-  site-url: https://chr66475.github.io/WebTemplate
+  site-url: https://UGA-IDD.github.io/WinterLabSite
   navbar:
     background: primary
     left:
