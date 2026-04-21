@@ -42,9 +42,7 @@ listing:
 ---
 
 ### About Me
-I am a PhD student in the Department of Epidemiology and Biostatistics at the University of Georgia. My research focuses on infectious disease dynamics, specifically investigating tetanus seroprevalence and applying machine learning methods in epidemiology. 
-
-I leverage tools like R, ggplot2, and gtsummary to analyze the spread, control, and evolution of infectious diseases on the population level. 
+My name is Connor Ross. I’m currently working towards my PhD in Epidemiology at the University of Georgia’s College of Public Health Department of Epidemiology and Biostatistics. I’m currently working as a graduate research assistant in the Department of Epidemiology and Biostatistics at the University of Georgia, and as a research associate at the University of South Carolina Department of Epidemiology and Biostatistics. Before coming to the UGA to complete my masters degree, I completed by bachelors in public health at the University of South Carolina where I developed an interest in infectious disease epidemiology and joined research initiatives on vector-borne and respiratory infectious diseases. Outside of work and academia, I enjoy reading, traveling, and spending time outdoors with my friends and family.
 
 ---
 
