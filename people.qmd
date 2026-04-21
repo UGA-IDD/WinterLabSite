@@ -1,0 +1,167 @@
+---
+title: "Lab Members"
+toc: false
+---
+
+<div class="filter-bar">
+  <select id="role-filter" class="filter-select">
+    <option value="all">All Roles</option>
+    <option value="faculty">Faculty</option>
+    <option value="postdoc">Post Docs</option>
+    <option value="phd">PhD Students</option>
+    <option value="masters">Masters Students</option>
+    <option value="undergrad">Undergraduate Students</option>
+    <option value="previous">Previous Members</option>
+  </select>
+  
+  <select id="alpha-filter" class="filter-select">
+    <option value="all">Last Name (A-Z)</option>
+    <option value="a">A</option>
+    <option value="b">B</option>
+    <option value="f">F</option>
+    <option value="r">R</option>
+    <option value="w">W</option>
+    </select>
+</div>
+
+::: {.content-container}
+
+::: {.people-section id="sec-faculty"}
+## Faculty
+
+::: {.people-grid}
+
+::: {.person-profile data-role="faculty" data-lastname="w"}
+[![](assets/amy_winter.jpg){.profile-img}](team/amy_winter.qmd)
+
+### [Amy Winter, PhD](team/amy_winter.qmd)
+**Principal Investigator**<br>Professor of Epidemiology
+
+[<i class="bi bi-envelope"></i>](mailto:awinter@uga.edu) [<i class="bi bi-github"></i>](https://github.com/amykwinter) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/amy-winter-11182526/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 512 512"><path d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300.5 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410.5 318.39 368.38 369 300.5 369z"/></svg>](https://orcid.org/0000-0003-2737-7003) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>](https://scholar.google.com/citations?user=Y4PDlfkAAAAJ&hl=en)
+:::
+
+:::
+:::
+
+::: {.people-section id="sec-postdoc"}
+## Post Docs
+
+::: {.people-grid}
+
+::: {.person-profile data-role="postdoc" data-lastname="b"}
+[![](assets/sewwandi_bandara.jpg){.profile-img}](team/sewwandi_bandara.qmd)
+
+### [Sewwandi Bandara, PhD](team/sewwandi_bandara.qmd)
+**Postdoctoral Researcher**<br>Epidemiology
+
+[<i class="bi bi-envelope"></i>](mailto:Sewwandi.Bandara@uga.edu) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/sewwandi-bandara-869432264/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 512 512"><path d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300.5 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410.5 318.39 368.38 369 300.5 369z"/></svg>](https://orcid.org/0000-0001-5669-8602) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>](https://scholar.google.com/citations?user=Za0IHeoAAAAJ&hl=en)
+:::
+
+::: {.person-profile data-role="postdoc" data-lastname="f"}
+[![](assets/alpha_forna.jpg){.profile-img}](team/alpha_forna.qmd)
+
+### [Alpha Forna, PhD, MSc, BPharm](team/alpha_forna.qmd)
+**Postdoctoral Researcher**<br>Epidemiology<br>Public Health Pharmacist
+
+[<i class="bi bi-envelope"></i>](mailto:Alpha.Forna@uga.edu) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/alpha-forna-75542034/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 512 512"><path d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300.5 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410.5 318.39 368.38 369 300.5 369z"/></svg>](https://orcid.org/0000-0003-4485-8511) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>](https://scholar.google.com/citations?user=kCt37ukAAAAJ&hl=en)
+
+:::
+
+:::
+:::
+
+
+::: {.people-section id="sec-phd"}
+## PhD Students
+
+::: {.people-grid}
+
+::: {.person-profile data-role="phd" data-lastname="a"}
+[![](assets/abraham_adokwei.jpg){.profile-img}](team/abraham_adokwei.qmd)
+
+### [Abraham Adokwei, M.Sc, GStat](team/abraham_adokwei.qmd)
+**PhD Candidate**<br>Epidemiology
+
+[<i class="bi bi-envelope"></i>](mailto:Abraham.Adokwei@uga.edu) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/abraham-adokwei-m-sc-gstat-09288711b/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 512 512"><path d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300.5 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410.5 318.39 368.38 369 300.5 369z"/></svg>](https://orcid.org/0009-0000-7044-2902) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>](https://scholar.google.com/citations?user=vjtxJ5cAAAAJ&hl=en)
+
+:::
+
+::: {.person-profile data-role="phd" data-lastname="r"}
+[![](assets/connor_ross.jpg){.profile-img}](team/connor_ross.qmd)
+
+### [Connor Ross, MPH](team/connor_ross.qmd)
+**PhD Student**<br>Epidemiology
+
+[<i class="bi bi-envelope"></i>](mailto:Connor.Ross@uga.edu) [<i class="bi bi-github"></i>](https://github.com/chr66475) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/connorross1013/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 512 512"><path d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300.5 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410.5 318.39 368.38 369 300.5 369z"/></svg>](https://orcid.org/0000-0002-5344-4241) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>](https://scholar.google.com/citations?user=DU9mzzwAAAAJ&hl=en)
+:::
+
+:::{.person-profile data-role="phd" data-lastname="w"}
+[![](assets/katie_wells.jpg){.profile-img}](team/katie_wells.qmd)
+
+### [Katie Wells, MPH](team/katie_wells.qmd)
+**PhD Student**<br>Epidemiology
+
+[<i class="bi bi-envelope"></i>](mailto:Katie.Wells@uga.edu) [<i class="bi bi-github"></i>](https://github.com/katiemwells) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/katie-wells-mph-42a9b3289/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 512 512"><path d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300.5 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410.5 318.39 368.38 369 300.5 369z"/></svg>](https://orcid.org/0009-0008-8331-5097)
+:::
+
+:::
+:::
+
+::: {.people-section id="sec-masters"}
+## Masters Students
+::: {.people-grid}
+:::
+:::
+
+::: {.people-section id="sec-undergrad"}
+## Undergraduate Students
+::: {.people-grid}
+:::
+:::
+
+::: {.people-section id="sec-previous"}
+## Previous Members
+::: {.people-grid}
+:::
+:::
+
+:::
+
+<script>
+  function filterPeople() {
+    const roleFilter = document.getElementById('role-filter').value.toLowerCase();
+    const alphaFilter = document.getElementById('alpha-filter').value.toLowerCase();
+
+    // Loop through every section (Faculty, PhD, etc.)
+    document.querySelectorAll('.people-section').forEach(section => {
+      let hasVisible = false;
+      
+      // Loop through every person in that section
+      section.querySelectorAll('.person-profile').forEach(card => {
+        const role = card.getAttribute('data-role').toLowerCase();
+        const lastname = card.getAttribute('data-lastname').toLowerCase();
+
+        // Check if the person matches the selected dropdowns
+        const roleMatch = (roleFilter === 'all' || role === roleFilter);
+        const alphaMatch = (alphaFilter === 'all' || lastname.startsWith(alphaFilter));
+
+        if (roleMatch && alphaMatch) {
+          card.style.display = 'block';
+          hasVisible = true;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+      
+      // If a section is completely empty based on the filter, hide the section header
+      section.style.display = hasVisible ? 'block' : 'none';
+    });
+  }
+
+  // Listen for clicks on the dropdowns
+  document.getElementById('role-filter').addEventListener('change', filterPeople);
+  document.getElementById('alpha-filter').addEventListener('change', filterPeople);
+  
+  // Run once on load to hide empty sections initially
+  window.addEventListener('DOMContentLoaded', filterPeople);
+</script>

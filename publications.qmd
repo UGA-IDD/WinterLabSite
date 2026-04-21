@@ -1,0 +1,15 @@
+---
+title: "Publications"
+listing:
+  contents: "publications/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, author, description, categories]
+page-layout: full
+title-block-banner: false
+---
+
+Peer-reviewed research and preprints from the Winter Lab.

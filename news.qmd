@@ -1,0 +1,18 @@
+---
+title: "News & Updates"
+listing:
+  contents: 
+    - "news/*.qmd"
+    - "publications/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, author, reading-time, description, categories]
+  feed: true
+page-layout: full
+title-block-banner: false
+---
+
+Stay up to date with the latest lab announcements, project milestones, and publications.

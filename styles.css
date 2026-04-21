@@ -1,0 +1,318 @@
+/* =========================================
+   BASE HOMEPAGE STYLING (RESTORED)
+   ========================================= */
+.hero-section {
+  position: relative;
+  background-color: #2c3e50; /* Slate Blue background */
+  padding: 100px 20px;
+  text-align: center;
+  overflow: hidden;
+}
+
+#particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  color: #ffffff;
+}
+
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.feature-cards {
+  display: flex;
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  flex: 1;
+}
+
+.card h3 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+}
+
+.card i {
+  color: #ba0c2f; /* UGA Red */
+  margin-right: 10px;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 15px;
+  color: #ba0c2f;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+
+.card a:hover {
+  color: #8b0822;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* =========================================
+   NAVIGATION BAR BRANDING
+   ========================================= */
+.navbar {
+  background-color: #ba0c2f !important; /* UGA Red */
+}
+
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-toggler-icon {
+  color: #ffffff !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #e0e0e0 !important;
+}
+
+/* =========================================
+   DARK MODE OVERRIDES
+   ========================================= */
+body.quarto-dark,
+html[data-bs-theme="dark"] body {
+  background-color: #050505 !important;
+}
+
+body.quarto-dark .hero-section,
+html[data-bs-theme="dark"] .hero-section {
+  background: #0a0a0a !important;
+}
+
+body.quarto-dark .card,
+html[data-bs-theme="dark"] .card {
+  background-color: #121212 !important; 
+  border: 1px solid #2a2a2a !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8) !important;
+}
+
+body.quarto-dark .card h3,
+html[data-bs-theme="dark"] .card h3 {
+  color: #f8f9fa !important; 
+}
+
+body.quarto-dark .card p,
+html[data-bs-theme="dark"] .card p {
+  color: #cccccc !important; 
+}
+
+body.quarto-dark .card i,
+html[data-bs-theme="dark"] .card i,
+body.quarto-dark .card a,
+html[data-bs-theme="dark"] .card a {
+  color: #ff4d4d !important; 
+}
+
+body.quarto-dark .card:hover,
+html[data-bs-theme="dark"] .card:hover {
+  box-shadow: 0 10px 15px rgba(255, 255, 255, 0.05) !important; 
+}
+
+/* =========================================
+   PEOPLE PAGE STYLING & FILTERS
+   ========================================= */
+.filter-bar {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 40px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.filter-select {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid #eaeaea;
+  background-color: #ffffff;
+  color: #2c3e50;
+  font-size: 1rem;
+  min-width: 200px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.people-section {
+  margin-bottom: 50px;
+}
+
+.people-section h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #ba0c2f; 
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 10px;
+}
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+  justify-items: center;
+}
+
+/* Main profile card container */
+.person-profile {
+  padding: 20px;
+  width: 100%;
+  max-width: 350px;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important; 
+  text-align: center !important;
+}
+
+.profile-img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 4px solid #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-img:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* =========================================
+   THE BULLETPROOF CENTERING & COLOR FIX
+   ========================================= */
+
+/* 1. Hide the invisible Quarto anchor links that push text left */
+.person-profile h3 .anchorjs-link,
+.person-profile h3 a.anchorjs-link {
+  display: none !important;
+}
+
+/* 2. Force the header wrapper to be a standard, centered block */
+.person-profile h3 {
+  display: block !important;
+  text-align: center !important;
+  width: 100% !important;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+
+/* 3. Force the linked name to be UGA Red and centered */
+.person-profile h3 a {
+  display: inline-block !important;
+  color: #ba0c2f !important; /* Absolute UGA Red */
+  text-decoration: none !important;
+  text-align: center !important;
+}
+
+.person-profile h3 a:hover {
+  color: #8b0822 !important; /* Darker red on hover */
+  text-decoration: underline !important;
+}
+
+/* ========================================= */
+
+.person-profile p {
+  margin-bottom: 10px;
+  color: #555;
+  font-size: 0.95rem;
+  text-align: center !important;
+  width: 100%;
+}
+
+.person-profile a {
+  font-size: 1.5rem;
+  color: #ba0c2f;
+  margin: 0 8px;
+  transition: color 0.2s;
+}
+
+.person-profile a:hover {
+  color: #8b0822;
+}
+
+/* --- Dark Mode Additions for People Page --- */
+body.quarto-dark .filter-select,
+html[data-bs-theme="dark"] .filter-select {
+  background-color: #121212 !important;
+  border-color: #2a2a2a !important;
+  color: #f8f9fa !important;
+}
+
+body.quarto-dark .people-section h2,
+html[data-bs-theme="dark"] .people-section h2 {
+  border-bottom-color: #2a2a2a !important;
+}
+
+body.quarto-dark .profile-img,
+html[data-bs-theme="dark"] .profile-img {
+  border-color: #2a2a2a !important;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* Keeps names bright red in Dark Mode */
+body.quarto-dark .person-profile h3 a,
+html[data-bs-theme="dark"] .person-profile h3 a {
+  color: #ff4d4d !important; 
+}
+
+body.quarto-dark .person-profile p,
+html[data-bs-theme="dark"] .person-profile p {
+  color: #cccccc !important;
+}
+
+/* =========================================
+   TITLE BANNER OVERRIDES (News & Publications)
+   ========================================= */
+.quarto-title-banner {
+  background-color: #2c3e50 !important; 
+  color: #ffffff !important;
+}
+
+body.quarto-dark .quarto-title-banner,
+html[data-bs-theme="dark"] .quarto-title-banner {
+  background-color: #0a0a0a !important; 
+  border-bottom: 1px solid #2a2a2a !important;
+}
+
+/* =========================================
+   FOOTER / DISCLAIMER STYLING
+   ========================================= */
+.nav-footer {
+  background-color: #ba0c2f !important; /* UGA Red */
+  color: #ffffff !important;            /* White text */
+  font-size: 0.9rem;
+  padding: 15px 0;
+  border-top: none;
+}
+
+/* Force dark mode footer to stay Red and White */
+body.quarto-dark .nav-footer,
+html[data-bs-theme="dark"] .nav-footer {
+  background-color: #ba0c2f !important;
+  color: #ffffff !important;
+  border-top: none;
+}

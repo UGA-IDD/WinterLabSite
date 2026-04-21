@@ -1,0 +1,38 @@
+# =========================================
+# Quarto & Pandoc Generated Files
+# =========================================
+/.quarto/
+_site/
+*_files/
+*_cache/
+
+# =========================================
+# R Environment & Session Data
+# =========================================
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# =========================================
+# Python & Jupyter Cache
+# =========================================
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# =========================================
+# OS Generated Files
+# =========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+**/*.quarto_ipynb

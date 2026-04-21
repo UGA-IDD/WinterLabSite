@@ -1,0 +1,15 @@
+---
+title: "PREPRINT: Tetanus seroprevalence among children in Ndola and Choma Districts, Zambia, 2022"
+author: "Connor Ross, Amy Winter"
+date: "2026-02-23"
+categories: [Preprint, Zambia, serology, seroprevalence, tetanus, vaccine preventable diseases]
+description: "Residual samples are useful and easy tool to conduct serosurveys. These survey provide direct information regarding vaccine programs."
+---
+
+**Published in:** *VeriXiv*
+**DOI:** [10.12688/verixiv.2912.1](https://doi.org/10.12688/verixiv.2912.1)
+
+### Abstract
+**Background:** Tetanus remains a preventable cause of neonatal mortality. Tetanus IgG serological testing can be used to assess population immunity to the tetanus toxin, representing primarily vaccine-derived immunity. This study used residual specimens to estimate tetanus seroprevalence among children in Ndola and Choma Districts in Zambia and to evaluate factors associated with seropositivity. **Methods and Findings:** We conducted a tetanus serosurvey using residual plasma specimens collected during routine clinical care from children aged 1 to 14 years at two district-level hospitals in 2022 (N = 1,146). Tetanus-specific IgG concentrations were measured using a commercial enzyme immunoassay (VaccZymeTM). We estimated district-level seroprevalence using methods to adjust for selection bias and examined variables associated with seropositivity while accounting for the hierarchical structure of the data. Estimated tetanus seroprevalence was 85% and 88% in Choma and Ndola Districts, respectively, with no statistically significant difference. Tetanus seropositivity decreased with increasing age and was lower among children attending outpatient wards compared to inpatient wards. Estimated seroprevalence at age 1 year was 94% and 97%, declining to 49% and 65% by age 14 years, among outpatient and inpatient wards respectively. **Conclusions:** Using residual clinical specimens is a feasible approach for conducting tetanus sero-surveys and assessing tetanus vaccination programs. High reported tetanus vaccination coverage in both districts was consistent with serological evidence of high exposure to tetanus toxoid. However, declining seropositivity with age suggests vulnerability to tetanus among adolescents. While this cross-sectional study cannot differentiate to what degree this decline reflects waning immunity or age-specific vaccination coverage, stable historical vaccination trends suggest waning immunity is contributing to lower seropositivity by age. These findings highlight the important role of three prenatal booster doses to pregnant women to prevent neonatal tetanus.
+
+[Read the full paper here &rarr;](https://verixiv.org/articles/3-80/v1)

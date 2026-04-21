@@ -1,0 +1,15 @@
+---
+title: "Presentations"
+listing:
+  contents: "presentations/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, author, description, categories]
+page-layout: full
+title-block-banner: false
+---
+
+Slide decks, posters, and invited talks from the Winter Lab.

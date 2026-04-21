@@ -1,0 +1,63 @@
+---
+title: "Connor Ross, MPH"
+toc: false
+# The Automated Feed Configuration
+listing:
+  - id: person-news
+    contents: 
+      - "../news/*.qmd"
+      - "../publications/*.qmd" # <--- This pulls your papers into your news feed
+    sort: "date desc"
+    type: grid
+    include:
+      author: "*Connor Ross*"   # <--- Wildcard searches the author string
+  - id: person-pubs
+    contents: 
+      - "../publications/*.qmd"
+    sort: "date desc"
+    type: grid
+    include:
+      author: "*Connor Ross*"
+  - id: person-presentations
+    contents: 
+      - "../presentations/*.qmd"
+    sort: "date desc"
+    type: grid
+    include:
+      author: "*Connor Ross*"
+---
+
+::: {.content-container}
+
+:::: {style="text-align: center; margin-bottom: 40px;"}
+<img src="../assets/connor_ross.jpg" class="profile-img" style="width: 250px; height: 250px;">
+  
+<p style="font-size: 1.2rem; color: #555; margin-bottom: 10px;"><strong>PhD Student</strong><br>Epidemiology</p>
+  
+::: {.person-profile style="max-width: 100%; padding: 0;"}
+[<i class="bi bi-envelope"></i>](mailto:Connor.Ross@uga.edu) [<i class="bi bi-github"></i>](https://github.com/chr66475) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/connorross1013/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 512 512"><path d="M294.75 188.19h-45.92V342h47.47c67.62 0 83.12-51.34 83.12-76.91 0-41.64-26.54-76.9-84.67-76.9zM256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm-80.79 360.76h-29.84v-207.5h29.84zm-14.92-231.14a19.57 19.57 0 1 1 19.57-19.57 19.64 19.64 0 0 1-19.57 19.57zM300.5 369h-81V161.26h80.6c76.73 0 110.44 54.83 110.44 103.85C410.5 318.39 368.38 369 300.5 369z"/></svg>](https://orcid.org/0000-0002-5344-4241) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>](https://scholar.google.com/citations?user=DU9mzzwAAAAJ&hl=en)
+:::
+::::
+
+---
+
+### About Me
+I am a PhD student in the Department of Epidemiology and Biostatistics at the University of Georgia. My research focuses on infectious disease dynamics, specifically investigating tetanus seroprevalence and applying machine learning methods in epidemiology. 
+
+I leverage tools like R, ggplot2, and gtsummary to analyze the spread, control, and evolution of infectious diseases on the population level. 
+
+---
+
+### Recent News
+:::{#person-news}
+:::
+
+### Publications
+:::{#person-pubs}
+:::
+
+### Presentations
+:::{#person-presentations}
+:::
+
+:::

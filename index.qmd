@@ -1,0 +1,63 @@
+---
+title: ""
+page-layout: custom
+toc: false
+---
+
+::: {.hero-section}
+<div id="particles-js"></div>
+
+::: {.hero-content}
+# The Winter Lab
+Department of Epidemiology and Biostatistics | College of Public Health | University of Georgia
+:::
+:::
+
+::: {.content-container}
+## Active Research Areas
+
+::: {layout-ncol=3 .feature-cards}
+
+::: {.card}
+### <i class="bi bi-globe-americas"></i> Seroprevalence Studies
+Investigating immunity levels in vulnerable populations. Current models focus on tetanus seroprevalence among children in Ndola and Choma Districts, Zambia.
+
+[Learn More &rarr;](projects.qmd)
+:::
+
+::: {.card}
+### <i class="bi bi-activity"></i> Pathogen Dynamics
+Utilizing R, ggplot2, and gtsummary to analyze the spread, control, and evolution of infectious diseases on the population level. 
+
+[View Publications &rarr;](publications.qmd)
+:::
+
+::: {.card}
+### <i class="bi bi-shield-plus"></i> Intervention Strategies
+Evaluating the impact of vaccines and targeted public health interventions on localized outbreaks and systemic transmission.
+
+[Opportunities &rarr;](#)
+:::
+
+:::
+:::
+
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script>
+  particlesJS('particles-js', {
+    "particles": {
+      "number": { "value": 100, "density": { "enable": true, "value_area": 800 } },
+      "color": { "value": ["#3498db", "#bdc3c7", "#ba0c2f"] },
+      "shape": { "type": "circle" },
+      "opacity": { "value": 0.6, "random": false },
+      "size": { "value": 3, "random": true },
+      "line_linked": { "enable": true, "distance": 150, "color": "#bdc3c7", "opacity": 0.3, "width": 1 },
+      "move": { "enable": true, "speed": 1.5, "direction": "none", "random": true, "straight": false, "out_mode": "out", "bounce": false }
+    },
+    "interactivity": {
+      "detect_on": "canvas",
+      "events": { "onhover": { "enable": true, "mode": "grab" } }
+    },
+    "retina_detect": true
+  });
+</script>
