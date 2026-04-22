@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -17,11 +20,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -30,7 +30,6 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
 
       # Add setup steps for Python or R here if your project executes code!
-      # e.g., actions/setup-python or r-lib/actions/setup-r
 
       - name: Render Quarto Project
         run: quarto render
@@ -38,11 +37,21 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # This must match your Quarto output directory. 
-          # For a Quarto website, it defaults to '_site'. 
-          # If you set `output-dir: docs` in your _quarto.yml, change this to 'docs'.
           path: _site
 
+  deploy:
+    # This ensures the deploy job waits for the build job to finish successfully
+    needs: build 
+    
+    # CRITICAL: This condition prevents deployment on Pull Requests. 
+    # It only allows deployment when the event is a direct push to the main branch.
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
