@@ -1,0 +1,61 @@
+---
+title: "Irene Cavros"
+toc: false
+# The Automated Feed Configuration
+listing:
+  - id: person-news
+    contents: 
+      - "../news/*.qmd"
+      - "../publications/*.qmd" # <--- This pulls your papers into your news feed
+    sort: "date desc"
+    type: grid
+    include:
+      author: "*Irene Cavros*"   # <--- Wildcard searches the author string
+  - id: person-pubs
+    contents: 
+      - "../publications/*.qmd"
+    sort: "date desc"
+    type: grid
+    include:
+      author: "*Irene Cavros*"
+  - id: person-presentations
+    contents: 
+      - "../presentations/*.qmd"
+    sort: "date desc"
+    type: grid
+    include:
+      author: "*Irene Cavros*"
+---
+
+::: {.content-container}
+
+:::: {style="text-align: center; margin-bottom: 40px;"}
+<img src="../assets/irene_cavros.jpg" class="profile-img" style="width: 250px; height: 250px;">
+  
+<p style="font-size: 1.2rem; color: #555; margin-bottom: 10px;"><strong>PhD Student</strong><br>Epidemiology</p>
+  
+::: {.person-profile style="max-width: 100%; padding: 0;"}
+[<i class="bi bi-envelope"></i>](icavros@cdc.gov) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/irenecavros/) [<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" class="bi" style="vertical-align: -0.125em;" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>](https://scholar.google.com/citations?user=Bk2GIAsAAAAJ&hl=en)
+:::
+::::
+
+---
+
+### About Me
+Irene Cavros is a PhD student in Epidemiology. She previously received her BS from Georgetown University and her MPH from the University of Virginia. She has spent over eight years working in sub-Saharan Africa on both HIV and malaria programs at the health facility and community levels. In addition to pursuing her degree at UGA, she works in the Malaria Branch of the U.S. Centers for Disease Control and Prevention. She also previously served as a Peace Corps Volunteer in Rwanda from 2015-2017. Her research interests include infectious diseases, particularly malaria, with a focus on molecular epidemiology and drug resistance.
+
+---
+
+### Recent News
+:::{#person-news}
+:::
+
+### Publications
+:::{#person-pubs}
+:::
+
+### Presentations
+:::{#person-presentations}
+:::
+
+:::
