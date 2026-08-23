@@ -1,12 +1,12 @@
 ---
 title: "Lab Calendar"
+page-layout: full
+title-block-banner: false
 toc: false
 ---
 
-::: {.content-container}
 Stay updated on lab meetings, reading groups, and upcoming conferences.
 
 <div style="margin-top: 30px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
   <iframe src="https://outlook.office365.com/owa/calendar/ea76a554e03149ef873f259d2d83a737@uga.edu/847996a9f27c4d1298a039c7472873b9596744358274439199/calendar.html" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
-:::
