@@ -27,7 +27,6 @@ The site is built using [Quarto](https://quarto.org/), utilizing custom CSS for 
 │   ├── presentations/      # Conference materials
 │   └── team/               # Individual member profiles (auto-pulls tagged content)
 │       ├── amy_winter.qmd
-│       ├── connor_ross.qmd
 │       └── ...
 │
 └── assets/                 # Static files (Profile pictures, PDFs, graphics)
