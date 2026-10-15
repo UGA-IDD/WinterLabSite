@@ -42,7 +42,7 @@ listing:
 ---
 
 ### About Me
-*(Biography, research focus, and background).*
+Alpha Forna, PhD, is a postdoctoral research associate in the Winter Lab at the University of Georgia. An infectious disease epidemiologist and computational biologist, he develops machine-learning and dynamic-modeling approaches to study pathogen evolution and disease dynamics. His prior work includes methods for influenza antigenic novelty and cross-reactivity, plus Ebola case-fatality estimation. In the Winter Lab, he applies machine learning-based approaches to understand when and why measles outbreaks occur and to estimate epidemiological parameters used to characterize measles.
 
 ---
 
