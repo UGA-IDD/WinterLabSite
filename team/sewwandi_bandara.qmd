@@ -42,7 +42,7 @@ listing:
 ---
 
 ### About Me
-*(Biography, research focus, and background).*
+I am Sewwandi Bandara, a Postdoctoral Research Associate in Dr. Winter’s lab at the University of Georgia. My research focuses on infectious disease epidemiology, with particular interests in serological data analysis and statistical modeling. My work integrates epidemiological data and quantitative methods to better understand infectious disease transmission dynamics, assess population immunity, and inform public health strategies.
 
 ---
 
