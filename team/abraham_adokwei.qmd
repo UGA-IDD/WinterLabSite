@@ -42,7 +42,7 @@ listing:
 ---
 
 ### About Me
-*(Biography, research focus, and background).*
+PhD Candidate in Epidemiology & Biostatistics with graduate training in Statistics and pharmaceutical industry experience at Merck and Johnson & Johnson. Experienced in clinical trial programming, statistical analysis, and CDISC standards (SDTM/ADaM) using SAS and R. Committed to applying rigorous statistical methods to support drug development and multidisciplinary clinical research.
 
 ---
 
