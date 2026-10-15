@@ -1,0 +1,189 @@
+---
+title: "Winter Research Group Manual"
+author: "Amy Winter"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+---
+
+## What I expect from you
+
+### 1. Professionalism
+
+a.  **Inclusion and diversity.** Diversity strengthens our science by broadening perspectives and encouraging creativity.
+
+    I am committed to fostering an inclusive environment where individuals of all backgrounds, identities, and experiences feel valued and supported. Respectful conduct is expected at all times. Discrimination, harassment, or exclusionary behavior will not be tolerated. Inclusion is a shared responsibility, and we all contribute to maintaining a supportive and collaborative environment. I welcome feedback on how we can improve the culture of our group.
+
+b.  **Ethics and research integrity.** Integrity is fundamental to good science. All members of this research group are expected to uphold the highest standards of honesty, transparency, and accountability in research, communication, and collaboration.
+
+    i.  Research outputs must accurately reflect the work performed. Fabrication, falsification, selective reporting, or misrepresentation of data or results is unacceptable. Note that mistakes are part of science; failing to acknowledge or correct them is not. When errors occur, they should be raised promptly so they can be addressed constructively.
+
+    ii. Plagiarism (i.e., presenting another person's ideas, words, or work as your own) is a serious ethical violation. This includes copying text without citation, closely paraphrasing without acknowledgment, reusing figures or code without credit, even self-plagiarism from published text. I recognize that accidental plagiarism can happen, particularly when developing writing skills or synthesizing literature. To avoid this, keep clear notes, cite consistently, and ask for feedback when unsure. When in doubt, over-cite rather than under-cite.
+
+    iii. AI tools (e.g., ChatGPT) can support brainstorming, editing, and problem-solving. But over-reliance on AI can hinder skill development in writing, coding, and critical thinking (skills essential for becoming an independent researcher). AI outputs should always be reviewed for accuracy, and substantial contributions should be acknowledged transparently. AI should enhance learning, not replace it.
+
+    iv. Maintaining ethical standards is a shared responsibility. If you are ever uncertain about appropriate practices, I encourage you to ask. Open communication helps prevent misunderstandings and strengthens trust within the group. Our goal is to foster a culture where honesty, accountability, and respect for others' contributions guide all aspects of our work.
+
+c.  **Conflict resolution.** Disagreements and misunderstandings are a natural part of collaborative work. Our goal is not to avoid conflict but to handle it in ways that maintain trust and professionalism. Throughout any conflict resolution process, all parties are expected to communicate respectfully and remain open to feedback. My go to rule is if I start to feel defensive, ask for a break and schedule a time to re-engage.
+
+    i.  If an issue arises between members of the research group, I encourage addressing it early. In many cases, a direct and respectful conversation between the individuals involved can resolve concerns quickly. If you feel comfortable doing so, I encourage you to start there. If direct communication does not resolve the issue, or if you do not feel comfortable addressing it yourself, I encourage you to bring the concern to the departmental DGS or myself.
+
+    ii. In situations where the conflict involves me, I hope you can feel comfortable talking directly to me in our weekly meetings or an independently scheduled meeting. If you feel uncomfortable talking to me directly, Dr. Jessica Knight or the acting DGS has agreed to be a third party mediator for my research group.
+
+### 2. Workplace culture
+
+The most important thing is that if it is bad for you that it is bad for science. Ultimately what matters to me is that you are making progress on your projects - something we'll discuss and set benchmarks for together on our shared google doc. The specifics of your work life will be dictated by what helps you be most productive. With that in mind I have some general thoughts on how not to work too much and how to work well when you do.
+
+a.  I do not expect you to work holidays, weekends, or after hours. That being said, there may be days or weeks when you have to work more because we have a big deadline coming up or we are finalizing a paper submission - after such events feel free to take extra time off after to recharge.
+
+b.  I don't intend to police you when you are in office. I will try to schedule meetings and research group activities only within 10am-4pm hours. But I suggest you find a schedule that works for you and your many other needs (family, sleep, life in all its many definitions) and try to stick with it. Consistency, also helps me and others generally know when we might be able to catch you in the office. It will help you be productive during the hours you are working and enjoy the hours when you aren't. If you're having a hard time with productivity in the office, come talk to me about it so we can look for ways to modify your work environment.
+
+c.  When you send emails, try to give me (and any recipient) a sense of when you need a response and to be cognizant of what is reasonable to ask.
+
+d.  Shared spaces should be treated in regards to those who share it with you. Keep in mind we do have roaches in Miller Hall.
+
+### 3. Commit to Best Practices
+
+In the pursuit of reproducibility and good science generally, we will try to adhere to a set of best practices from project initiation through publication.
+
+a.  Each mentee's shared google doc will serve as our landing page of all conversations, decisions, expectations.
+
+b.  Google Drive and/or Github will be a shared workspace - and this is where I expect all our projects to be held. I expect you to use the file system we set up together to optimize working together. This will be especially imperative for code. John Drake lab has a nice [project management protocol](https://github.com/DrakeLab/Wiki/wiki/Project-Management) you can take a look at.
+
+c.  Exit strategy. Six months before you plan to leave the lab, we will begin having conversations about wrapping up your work and ensuring it is properly transferred over in the group.
+
+### 4. Scientific Output
+
+a.  Research Hours Minimum Expectations:
+
+    i.  PhD RA: 20 hours per week on average (year 1 closer to 10 hours/week given coursework, year 2 closer to 15 hours/week)
+
+    ii. Postdoc: 40 hours per week on average
+
+b.  Authorship - Authorship will always be discussed early and revisited as projects evolve. Transparency is essential.
+
+c.  I also want to support you in other endeavors that are not being funded by myself. (e.g., ideas from our work for further pursuit or opportunities to become involved in collaborations with others (in the lab or outside it))
+
+    i.  Before starting any such projects though, I expect a conversation to discuss how you'll manage your time to ensure continued progress on your funded project.
+
+### 5. Be a Part of the Community!
+
+No meaningful research happens in isolation. Engaging in the community exposes you to new methods and perspectives, sparks collaborations, and improves the quality of your work through feedback.
+
+a.  Recommend you joining CEID (<https://www.ceid.uga.edu/>)
+
+b.  Attend weekly Departmental IDIG Meetings (Thur 11am)
+
+c.  Attend monthly Departmental Seminar and coffee/cookie hour
+
+d.  Attend weekly Winter Research Group meetings (Thu at 2pm)
+
+### 6. PhD Specific Expectations
+
+a.  Complete IDP and Aligning Expectations tool upon arrival
+
+b.  Attend weekly individual one-on-one meeting
+
+    i.  Be prepared for weekly meetings with at minimum an agenda (at the top of each mentee's google doc). The agenda can include "still working on X" resulting in a short meeting but I will want to see your face each week
+
+c.  24 hour email reply time not including holidays/weekends
+
+d.  The expectations of a graduate student will change significantly over the course of your studies. Generally, PhD students should be functioning highly independently by the end of their tenure in the lab. You should be more expert than I am in your thesis area and be able to act that way. You can and should always ask for help when you need it though.
+
+e.  Years 1 and 2 are for coursework and lots of reading. During this time, we will also discuss you taking on a smaller analytic project. The hope is for this to result in a publishable product before your promotion to candidate. It may end up in your thesis or just be a side project, either way it will give you something actionable while you're figuring out what you want to focus on for your thesis.
+
+f.  3 manuscript dissertation. The number of publications to come out of a PhD will vary but I expect there to be at least one "accepted" in an agreed upon peer-review publication before graduating. You should aim to have your other two papers submitted before you defend, at minimum one more submitted.
+
+g.  The goal is for all students to finish in 4 years. Sometimes this can't happen for any number of reasons, but the plan by default will be 4 years. A discussion with your committee will be necessary to change this plan.
+
+h.  Your contract is annual, meaning you are only assured funding one year at a time. I expect you to look for relevant fellowships and grants-in-aid to support your stipend or research costs during that time.
+
+i.  We'll work together to assemble a dissertation committee that is best suited to help you succeed. This will likely result in a mix of collaborators directly involved in your research and persons a bit further afield. The latter is particularly important to ensure that there is an outside perspective and increase the likelihood of reviewer-esque constructive criticism coming up early in projects. Ideally, your committee will include a mix of fields and backgrounds and must include at least one person outside the department.
+
+j.  You are responsible for keeping on top of deadlines and requirements for your program. I will hopefully know most of the things, but it is best if you assume I don't. Give me adequate warning when you're going to need something from me---at least 2 weeks for letters of recommendation or manuscript/grant edits, 1 week for abstracts.
+
+k.  I expect you to generate an Agreement on Responsible Use of AI for your proposal and dissertation that is to be agreed upon by your whole committee.
+
+l.  Annual reviews will take place every January for the calendar year. Complete documentation by the 3rd week of January and annual review meetings will take place by mid February.
+
+m.  If you're having a hard time with productivity during the program, I highly encourage you to talk to me. I have lots of different (self-tried) approaches for how to stay focused and motivated in our world of diminished dopamine. If you don't feel comfortable talking with me, it is really important to talk to someone who can help hold you accountable. Some floundering is inevitable in PhD programs, but extended floundering (i.e., 2+ weeks without productivity) will keep you from reaching your overarching goal of our time together.
+
+### 7. Postdoc Specific Expectations
+
+a.  [IPD](https://myidp.sciencecareers.org/) completed upon arrival
+
+b.  Annual reviews will take place every March for the calendar year. I will try to remember, but this is your time to remind me of a pay increase.
+
+c.  Attend weekly individual one-on-one meeting
+
+    i.  Be prepared for weekly meetings with at minimum an agenda (at the top of each mentee's google doc).
+
+d.  24 hour email reply time not including holidays/weekends
+
+e.  Support research group members
+
+## What you can expect from me
+
+### 1. Support
+
+a.  Funding. Your funding contract is annual.
+
+    i.  PhD RA - I will do all in my power to provide you with funding for 4 years (or 12 month funding) at 20 hours per week as a graduate research assistant plus tuition and fees. A students' year in the program is not associated with confirmed funding.
+
+    ii. Postdoc - I will do all in my power to provide you with funding for at least two years. Funding will be in line with [NIH](https://www.niaid.nih.gov/grants-contracts/salary-cap-stipends) pay scale plus fringe.
+
+b.  Feedback
+
+    i.  Annual written assessment
+
+    ii. Once a week meetings (documented via shared google doc) - We will use some of our one- on-one meeting times to discuss your progress and content, with clear action items on how to improve.
+
+    iii. Feedback on written work and oral presentations via edits and oral or written feedback, respectively
+
+    iv. I encourage constructive feedback. This can be provided in whatever form you are most comfortable in---written or oral, public or private. During our yearly meetings may be a good time to discuss particular ways you'd like my handling to change, but you definitely don't need to wait that long to bring things up. It'll take a little while for us to figure out what works best for you, but this process will go faster if you are straightforward with me about what is or isn't working.
+
+    v.  Response to paper drafts within two weeks (max), goal is one week
+
+c.  Expand Network
+
+    i.  Attend professional meeting(s) - you can expect me to pay for at least one national academic conference including travel, lodging, registration fees annually -- if international it is a convo
+
+### 2. Availability
+
+a.  Once a week meetings - training and support
+
+b.  15 min time [slots](https://calendly.com/akwinter/mon_fri_lab_slots) available first come first serve Monday / Friday
+
+c.  You can generally consider me available and in the office between 10 and 4 every weekday. If I'm in my office and the door is open, you should feel free to pop in any time. If I'm not in or available at that moment, send me an email or slack.
+
+d.  You shouldn't expect that I will see an email sent after 5:30 until the next day or that I will check my email over the weekend. I will aim to respond to emails within 24 hours. If there is an emergency, call or text.
+
+e.  I will give everyone at least a week's notice for any travel plans with specific updates on how that may affect weekly meetings and my accessibility. If I'm traveling for work, we will either reschedule meetings or hold them remotely. If I'm out on vacation time, we will skip our meetings, and my email monitoring will be minimal. Again, emergencies should be routed to my cell via call or text.
+
+### 3. Research Group Transparency
+
+This is partly intended to help you learn how the business of running a research group works (in case you are doing it yourself one day) and partly because I think that you all deserve to know how and why things work the way they do. This document is a good example of this aspiration. Other ways this will manifest include:
+
+a.  I will share budget information (requested funds and so-far-spent) especially when we can't afford something new or shiny.
+
+b.  You can ask to read any reviews I receive on grants or papers as well as the submitted materials themselves. When the time comes, I will share all my promotion/tenure packet materials if you want.
+
+c.  Current lab members will be involved in the interviewing and recruitment of new research group members.
+
+d.  I will hold a yearly state-of-the-group meeting, where we broadly go over the projects in the group, where they stand, and where we're going.
+
+e.  I will try to answer [any]{.underline} questions you have about goings on in the group or the wider community as long as they are not about specific people (e.g. the progress of another group member) or confidential (e.g. the progress of disciplinary reviews).
+
+## Resources
+
+- [How to write a scientific paper](https://www.sciencedirect.com/special-issue/10198X686V9)
+- [The Importance of Stupidity in Scientific Research](https://web.stanford.edu/~fukamit/schwartz-2008.pdf) (by Martin Schwartz)
+- [Poster template for Winter Lab](https://www.dropbox.com/scl/fi/lfnik8h66ys2qc0suwqr0/PosterTemplate.pptx?rlkey=zjy0yt2bkzwsdfzvt8qio3dax&st=23szwwpc&dl=0)
+- [Example - Agreement on Responsible Use of AI for Dissertation](https://www.dropbox.com/scl/fi/yv3sosmbg45218vr7va1e/AIUseTemplate.docx?rlkey=hskjanoyfxrc25rtwui65dldq&dl=0)
+
+John Drake's Lab - Things to Consider Adopting:
+
+- <https://github.com/DrakeLab/Wiki/wiki/Project-Management>
+- <https://github.com/DrakeLab/Wiki/wiki>
+- <https://github.com/DrakeLab/Wiki/wiki/Drake-Lab-Project-Policy>
