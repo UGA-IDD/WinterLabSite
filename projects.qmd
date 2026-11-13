@@ -1,5 +1,99 @@
 ---
 title: "Projects"
+toc: true
+toc-title: "Jump to"
 ---
 
-Details on the Ndola and Choma Districts tetanus seroprevalence models will be posted here.
+::: {.content-container}
+
+## Ongoing Projects
+
+### Updating Measles Immunity Profiles to Guide Vaccination Strategies
+**Funder:** The Gates Foundation | **Role:** PI 
+
+This project updates measles immunity profiles to provide more granular estimates that can be used to inform vaccination strategies, including campaign planning and geographic targeting. Dr. Winter leads as PI with co-investigators at Johns Hopkins University (Saki Takahashi, Alyssa Sbarra, Simon Mutembo).
+
+---
+
+### The Vaccine Impact Modelling Consortium 
+**Funder:** Gavi the Vaccine Alliance | **Role:** PI 
+
+This consortium grant evaluates the impact of rubella vaccination strategies on rubella cases, congenital rubella syndrome (CRS) cases and deaths, and DALYs across 116 countries. Dr. Winter leads all modelling work, continuously improving a dynamic mechanistic age-structured transmission model, conducting simulation runs, and presenting outputs at annual consortium meetings.
+
+---
+
+## Upcoming Projects
+
+### Reassessing the Decision Heuristic for Measles Supplementary Immunization Activities
+**Funder:** The Gates Foundation | **Role:** co-PI | **Start:** December 2026
+
+This project revisits a critical — and often overlooked — decision metric in measles control: the threshold rules used to determine when to conduct national supplementary immunization activities (SIAs). By developing more rigorous, evidence-based heuristics, the work aims to improve the efficiency and equity of campaign targeting globally.
+
+---
+
+### Reassessing Thresholds for Measles Surveillance System Performance
+**Funder:** The Gates Foundation | **Role:** co-PI | **Start:** December 2026
+
+A companion project examining how surveillance system performance thresholds are defined and used in measles control decision-making. Poor surveillance is a key barrier to elimination in many settings — this work develops better tools for assessing when surveillance data are reliable enough to guide action.
+
+---
+
+## Completed Projects
+
+### Establishing Sustainable Multi-Pathogen Serosurveillance in Zambia
+**Funder:** The Gates Foundation | **Role:** Co-Investigator 
+
+This project established a sustainable, nationally integrated multi-pathogen serosurveillance system in Zambia, building on lessons learned from Mozambique and other countries.
+
+---
+
+### Assessing Global Measles Outbreak Risk via Classification Methods
+**Funder:** The Gates Foundation | **Role:** Co-PI 
+
+This project developed machine learning classification approaches to predict national measles outbreak risk for all countries, integrating vaccination coverage, surveillance data, and other data streams. Dr. Winter co-led with Matt Ferrari (Penn State) and co-investigators John Drake (UGA), Saki Takahashi, William Moss, and Shaun Truelove (Johns Hopkins University).
+
+---
+
+### Zambia: Strategies to Effectively Target Measles Zero-Dose Children
+**Funder:** Gavi the Vaccine Alliance | **Role:** Co-Investigator 
+
+This project evaluated strategies to effectively reach measles zero-dose children in Zambia. Dr. Winter served as the modeller on the team, evaluating the role of modelled estimates in vaccine policy decision-making and simulating the impact of a school-entry vaccination program.
+
+---
+
+### Developing Analytic Methods for Multi-Pathogen Serosurveillance
+**Funder:** UGA Center for the Ecology of Infectious Diseases (CEID) Seed Grant | **Role:** Co-PI
+
+This seed grant developed quantitative approaches to characterize archetypes of serological profiles across pathogen systems. Using the [serosim](https://github.com/seroanalytics/serosim) R package, we built a simulation-based framework to develop and validate statistical and machine learning approaches for multi-pathogen serosurveillance. Co-PI: Mandev Gil (UGA Department of Statistics).
+
+---
+
+### Measles Modeling for Evolving Program Planning and Implementation
+**Funder:** The Gates Foundation | **Role:** Co-PI 
+
+Developed novel approaches for integrating multiple data sources to evaluate measles risk at national and sub-national scales. Co-PIs included Jess Metcalf (Princeton) and Matt Ferrari (Penn State).
+
+---
+
+### Measles Rapid Diagnostic Test Deployment Modeling
+**Funder:** Gavi the Vaccine Alliance | **Role:** Co-PI
+
+Used modelling and empirical data analyses to compare the performance of measles IgM rapid diagnostic tests against alternative diagnostic confirmation strategies with respect to measles burden and outbreak risk. Co-PIs: Matt Ferrari (Penn State) and William Moss (Johns Hopkins).
+
+---
+
+### CAPE — Center for Applied Pathogen Epidemiology and Outbreak Response
+**Funder:** US Centers for Disease Control and Prevention | **Role:** Co-Investigator 
+
+Assessed the landscape of pathogen genomics as part of the Pathogen Genomics Centers of Excellence (PGCoE) network. CAPE's broader goal is to foster innovation and technical capacity in pathogen genomics, molecular epidemiology, and bioinformatics to improve public health response to infectious disease threats. PI: Justin Bahl, UGA
+
+---
+
+### Feasibility of Measles and Rubella Eradication
+**Funder:** World Health Organization | **Role:** PI 
+
+Evaluated the potential for rubella eradication in 98 countries. Dr. Winter wrote the application, modified a dynamic mechanistic age-structured model, conducted all simulation runs, and disseminated findings to WHO.
+
+**Key output:** [Winter et al., *Lancet Global Health* 2022 &rarr;](https://doi.org/10.1016/S2214-109X(22)00335-7)
+
+:::

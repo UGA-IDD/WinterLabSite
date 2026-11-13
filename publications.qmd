@@ -1,15 +1,70 @@
 ---
 title: "Publications"
-listing:
-  contents: "publications/*.qmd"
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: true
-  filter-ui: true
-  fields: [date, title, author, description, categories]
-page-layout: full
-title-block-banner: false
+toc: true
+toc-title: "Jump to"
+page-layout: article
 ---
 
-Peer-reviewed research and preprints from the Winter Lab.
+::: {.content-container}
+
+Selected publications organized by research theme. For the complete list, see [Google Scholar &rarr;](https://scholar.google.com/citations?user=Y4PDlfkAAAAJ&hl=en)
+
+---
+
+## Seroepidemiology
+
+**Winter AK**, Moss WJ. Rubella. *The Lancet.* 2022;399(10332):1336–1346.
+
+**Winter AK**, Martinez ME, Cutts FT, Moss WJ, Ferrari MJ, McKee A, Lessler J, Hayford K, Wallinga J, Metcalf CJE. Benefits and Challenges in Using Seroprevalence Data to Inform Models for Measles and Rubella Elimination. *J Infect Dis.* 2018;218(3):355–364. [doi:10.1093/infdis/jiy137](https://doi.org/10.1093/infdis/jiy137)
+
+Hayford K, Mutembo S, Carcelen A, Matakala HK, Munachoonga P, **Winter A**, et al. Measles and rubella serosurvey identifies rubella immunity gap in young adults of childbearing age in Zambia: the added value of nesting a serological survey within a post-campaign coverage evaluation survey. *Vaccine.* 2019;37(17):2387–2393. [doi:10.1016/j.vaccine.2019.02.037](https://doi.org/10.1016/j.vaccine.2019.02.037)
+
+**Winter AK**, Pramanik S, Lessler J, Ferrari M, Grenfell BT, Metcalf CJE. Rubella vaccination in India: identifying broad consequences of vaccine introduction and key knowledge gaps. *Epidemiol Infect.* 2018;146(1):65–77. [doi:10.1017/S0950268817002527](https://doi.org/10.1017/S0950268817002527)
+
+Wang Q, Wang W, **Winter AK**, Zhan Z, et al. Long-term measles antibody profiles following different vaccine schedules in China, a longitudinal study. *Nature Communications.* 2023;14(1):1746. [doi:10.1038/s41467-023-37198-1](https://doi.org/10.1038/s41467-023-37198-1)
+
+Ross C, **Winter AK**. PREPRINT: Tetanus seroprevalence among children in Ndola and Choma Districts, Zambia, 2022. *VeriXiv.* [doi:10.12688/verixiv.2912.1](https://doi.org/10.12688/verixiv.2912.1) | [Full text &rarr;](https://verixiv.org/articles/3-80/v1)
+
+**Winter AK**, Metcalf CJE. Persistence of Passive Immunity, Natural Immunity and Vaccination. In: Held L, Hens N, O'Neill P, Wallinga J, editors. *The Handbook of Infectious Disease Data Analysis.* Chapman & Hall/CRC; 2019.
+
+---
+
+## Outbreak Prediction
+
+Raherinandrasana AH, Metcalf C, Heraud JM, Cauchemez S, **Winter A**, Wesolowski A, et al. Towards better targeting: lessons learned from a measles outbreak in Madagascar 2018–2019. *BMJ Global Health.* 2020;5(10):e003153. [doi:10.1136/bmjgh-2020-003153](https://doi.org/10.1136/bmjgh-2020-003153)
+
+**Winter AK**, Wesolowski AP, Mensah KJ, Ramamonjiharisoa MB, et al. Revealing Measles Outbreak Risk With a Nested Immunoglobulin G Serosurvey in Madagascar. *Am J Epidemiol.* 2018;187(10):2219–2226. [doi:10.1093/aje/kwy114](https://doi.org/10.1093/aje/kwy114)
+
+Wesolowski A, **Winter A**, Tatem AJ, et al. Measles outbreak risk in Pakistan: exploring the potential of combining vaccination coverage and incidence data with novel data-streams to strengthen control. *Epidemiol Infect.* 2018;146(12):1575–1583. [doi:10.1017/S0950268818001449](https://doi.org/10.1017/S0950268818001449)
+
+Mensah K, Heraud JM, Takahashi S, **Winter AK**, Metcalf CJE, Wesolowski A. Seasonal gaps in measles vaccination coverage in Madagascar. *Vaccine.* 2019;37(18):2511–2519. [doi:10.1016/j.vaccine.2019.02.069](https://doi.org/10.1016/j.vaccine.2019.02.069)
+
+---
+
+## Scenario Modelling
+
+Graham M\*, **Winter AK**\*, Ferrari M, Grenfell B, Moss WJ, Azman AS, Metcalf CJE, Lessler J. Measles and the canonical path to elimination. *Science.* 2019;364(6440):584–587. [doi:10.1126/science.aau6299](https://doi.org/10.1126/science.aau6299) (\*equal contribution)
+
+**Winter AK**, Lambert B, Klein D, Klepac P, Papadopoulos T, Truelove S, et al. Feasibility of measles and rubella vaccination programmes for disease elimination: a modelling study. *Lancet Global Health.* 2022;10(10):e1412–e1422.
+
+Li X, Mukandavire C, Cucunubá ZM, Londono SE, Abbas K, Clapham HE, ..., **Winter A**, ..., Garske T (Vaccine Impact Modelling Consortium). Estimating the health impact of vaccination against 10 pathogens in 98 low- and middle-income countries from 2000 to 2030. *The Lancet.* 2021;397(10272):398–408. [doi:10.1016/S0140-6736(20)32657-X](https://doi.org/10.1016/S0140-6736(20)32657-X)
+
+Hartner AM, Li X, Echeverria-Londono S, ..., **Winter**, et al. Estimating the health effects of COVID-19-related immunisation disruptions in 112 countries during 2020–30: a modelling study. *Lancet Global Health.* 2024;12(4):e563–e571.
+
+Metcalf CJE, Wesolowski A, **Winter AK**, Lessler J, Cauchemez S, Moss WJ, McLean AR, Grenfell BT. Using serology to anticipate measles post-honeymoon period outbreaks. *Trends Microbiol.* 2020. [doi:10.1016/j.tim.2020.04.009](https://doi.org/10.1016/j.tim.2020.04.009)
+
+Motaze NV, Edoka I, Wiysonge CS, Metcalf CJE, **Winter AK**. Rubella Vaccine Introduction in the South African Public Vaccination Schedule: Mathematical Modelling for Decision Making. *Vaccines.* 2020;8(3):383. [doi:10.3390/vaccines8030383](https://doi.org/10.3390/vaccines8030383)
+
+Cutts FT, Dansereau E, Ferrari MJ, Hanson M, McCarthy KA, Metcalf CJE, Takahashi S, Tatem AJ, Thakkar N, Truelove S, Utazi E, Wesolowski A, **Winter AK**. Using models to shape measles control and elimination strategies in low- and middle-income countries: a review of recent applications. *Vaccine.* 2020. [doi:10.1016/j.vaccine.2019.11.020](https://doi.org/10.1016/j.vaccine.2019.11.020)
+
+---
+
+## COVID-19 and Immunisation Systems
+
+**Winter AK**, Hegde ST. The important role of serology for COVID-19 control. *Lancet Infect Dis.* 2020. [doi:10.1016/S1473-3099(20)30322-4](https://doi.org/10.1016/S1473-3099(20)30322-4)
+
+Carcelen AC, Prosperi C, Mutembo S, Chongwe G, Mwansa FD, ..., **Winter**, et al. COVID-19 vaccine hesitancy in Zambia: a glimpse at the possible challenges ahead for COVID-19 vaccination rollout in sub-Saharan Africa. *Human Vaccines & Immunotherapeutics.* 2022;18(1). [doi:10.1080/21645515.2021.1948716](https://doi.org/10.1080/21645515.2021.1948716)
+
+Hartner AM, Li X, Echeverria-Londono S, ..., **Winter**, et al. Estimating the health effects of COVID-19-related immunisation disruptions in 112 countries during 2020–30: a modelling study. *Lancet Global Health.* 2024;12(4):e563–e571.
+
+:::

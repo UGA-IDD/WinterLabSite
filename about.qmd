@@ -1,5 +1,17 @@
 ---
-title: "About us"
+title: "About the Lab"
 ---
 
-Details about the lab.
+::: {.content-container}
+
+## Our Research
+
+The Winter Lab studies the dynamics of vaccine-preventable infections to inform disease control and elimination strategies. Led by Dr. Amy Winter, Associate Professor in the Department of Epidemiology and Biostatistics at the University of Georgia, our work is united by a **decision-oriented approach**: we ask research questions with direct implications for public health policy, and we build the methodological tools needed to answer them rigorously.
+
+Our research spans three interconnected pillars — scenario modelling, outbreak prediction, and seroepidemiology — with a focus on measles, rubella, and other pathogens in low- and middle-income countries. We work in close collaboration with the World Health Organization, The Gates Foundation, Gavi the Vaccine Alliance, Johns Hopkins Bloomberg School of Public Health, Pennsylvania State University, and in-country partners in Zambia.
+
+## Join the Lab
+
+We welcome graduate students and postdoctoral fellows with interests in infectious disease epidemiology, mathematical modelling, machine learning, and/or applied biostatistics. Students in the lab develop strong quantitative skills and work on projects with direct real-world relevance. If you are interested in joining, please reach out to Amy at [awinter@uga.edu](mailto:awinter@uga.edu).
+
+:::

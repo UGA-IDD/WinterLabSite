@@ -4,5 +4,5 @@ toc: false
 ---
 
 ::: {.content-container}
-*Content and protocols coming soon.*
+- [Winter Research Group Manual](labmaterials/winter_reserach_group_manual.qmd)
 :::

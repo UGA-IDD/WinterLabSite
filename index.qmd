@@ -14,29 +14,31 @@ Department of Epidemiology and Biostatistics | College of Public Health | Univer
 :::
 
 ::: {.content-container}
-## Active Research Areas
+## A Decision-Oriented Approach to Infectious Disease Research
+
+We ask research questions that have direct implications for public health policy — and build the methods needed to answer them rigorously. Our work spans three pillars:
 
 ::: {layout-ncol=3 .feature-cards}
 
 ::: {.card}
-### <i class="bi bi-globe-americas"></i> Seroprevalence Studies
-Investigating immunity levels in vulnerable populations. Current models focus on tetanus seroprevalence among children in Ndola and Choma Districts, Zambia.
+### <i class="bi bi-bar-chart-line"></i> Scenario Modelling
+Mathematical and mechanistic models to evaluate vaccination strategies, characterize transmission dynamics, and define pathways to elimination for measles, rubella, and other vaccine-preventable infections.
 
-[Learn More &rarr;](projects.qmd)
+[Graham & Winter et al., *Science* 2019 &rarr;](https://doi.org/10.1126/science.aau6299)
 :::
 
 ::: {.card}
-### <i class="bi bi-activity"></i> Pathogen Dynamics
-Utilizing R, ggplot2, and gtsummary to analyze the spread, control, and evolution of infectious diseases on the population level. 
+### <i class="bi bi-geo-alt"></i> Outbreak Prediction
+Machine learning to predict measles outbreak risk at national and sub-national scales, integrating vaccination coverage, surveillance data, and novel data streams. Funded by the Bill & Melinda Gates Foundation.
 
-[View Publications &rarr;](publications.qmd)
+[Raherinandrasana et al., *BMJ Global Health* 2020 &rarr;](https://doi.org/10.1136/bmjgh-2020-003153)
 :::
 
 ::: {.card}
-### <i class="bi bi-shield-plus"></i> Intervention Strategies
-Evaluating the impact of vaccines and targeted public health interventions on localized outbreaks and systemic transmission.
+### <i class="bi bi-droplet"></i> Seroepidemiology
+Developing and validating statistical and machine learning methods to leverage serological data across pathogens with complex histories, using simulation frameworks and field data from Zambia.
 
-[Opportunities &rarr;](#)
+[Winter et al., *J Infect Dis* 2018 &rarr;](https://doi.org/10.1093/infdis/jiy137)
 :::
 
 :::
