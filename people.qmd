@@ -136,7 +136,7 @@ toc: false
 ::: {.people-grid}
 
 ::: {.person-profile data-role="previous" data-lastname="g"}
-<div class="profile-placeholder" aria-hidden="true">IG</div>
+[![](assets/indrajit_ghosh.jpg){.profile-img}](https://www.linkedin.com/in/dr-indrajit-ghosh-bb6b87147/)
 
 ### [Indrajit Ghosh, PhD](https://www.linkedin.com/in/dr-indrajit-ghosh-bb6b87147/)
 **Former Postdoctoral Research Associate**<br>Assistant Professor, Bagchi School of Public Health<br>Ahmedabad University

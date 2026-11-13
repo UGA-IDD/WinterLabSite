@@ -16,25 +16,25 @@ Department of Epidemiology and Biostatistics | College of Public Health | Univer
 ::: {.content-container}
 ## A Policy-Driven Approach to Infectious Disease Research
 
-We work directly with policymakers to shape research questions about infectious disease dynamics, population immunity, and public health interventions. This policy-driven approach connects three overlapping research areas:
+We work directly with policymakers to shape our research questions — so the path from evidence to action is clear from the start. Our work spans three pillars:
 
 ::: {layout-ncol=3 .feature-cards}
 
 ::: {.card}
-### <i class="bi bi-bar-chart-line"></i> Transmission and Intervention Modelling
-Mathematical and mechanistic models to characterize infectious disease dynamics and compare vaccination, surveillance, and other control strategies across populations and settings.
+### <i class="bi bi-bar-chart-line"></i> Scenario Modelling
+Mathematical and mechanistic models to evaluate vaccination strategies, characterize transmission dynamics, and define pathways to elimination for measles, rubella, and other vaccine-preventable infections.
 
 :::
 
 ::: {.card}
-### <i class="bi bi-geo-alt"></i> Prediction and Surveillance
-Statistical and machine learning methods that combine case surveillance, vaccination data, population characteristics, and other signals to anticipate outbreaks and assess when available data can guide action.
+### <i class="bi bi-geo-alt"></i> Outbreak Prediction
+Machine learning to predict measles outbreak risk at national and sub-national scales, integrating vaccination coverage, surveillance data, and novel data streams.
 
 :::
 
 ::: {.card}
-### <i class="bi bi-droplet"></i> Population Immunity and Seroepidemiology
-Methods that use serological and other population data to identify immunity gaps, reconstruct patterns of exposure, and evaluate vaccination programs across pathogens with complex histories.
+### <i class="bi bi-droplet"></i> Seroepidemiology
+Developing and validating statistical and machine learning methods to leverage serological data across pathogens with complex histories, using simulation frameworks and field data from Zambia.
 
 :::
 
