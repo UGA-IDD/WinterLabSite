@@ -6,9 +6,9 @@ title: "About the Lab"
 
 ## Our Research
 
-The Winter Lab studies the dynamics of vaccine-preventable infections to inform disease control and elimination strategies. Led by Dr. Amy Winter, Associate Professor in the Department of Epidemiology and Biostatistics at the University of Georgia, our work is united by **policy-driven science**: we partner directly with policymakers to shape our research questions, and we build the methodological tools needed to answer them rigorously.
+The Winter Lab studies infectious disease dynamics and population immunity to inform prevention, surveillance, control, and elimination. Led by Dr. Amy Winter, Associate Professor in the Department of Epidemiology and Biostatistics at the University of Georgia, our work is united by **policy-driven science**: we partner directly with policymakers to shape research questions and build the methodological tools needed to answer them rigorously.
 
-Our research rests on three interconnected pillars, applied to measles, rubella, and other pathogens in low- and middle-income countries. We work in close collaboration with the World Health Organization, The Gates Foundation, Gavi the Vaccine Alliance, Johns Hopkins Bloomberg School of Public Health, Pennsylvania State University, and in-country partners in Zambia.
+Our research connects transmission and intervention modelling, prediction and surveillance, and population immunity and seroepidemiology. We use mathematical models, statistics, machine learning, simulation, and field data to study questions across pathogens and settings. Measles, rubella, and other vaccine-preventable infections remain major areas of work, while the lab's questions and methods extend more broadly across infectious disease epidemiology. We work in close collaboration with the World Health Organization, The Gates Foundation, Gavi the Vaccine Alliance, Johns Hopkins Bloomberg School of Public Health, Pennsylvania State University, colleagues across UGA, and in-country partners in Zambia.
 
 ::: {.pillars-schematic}
 
@@ -24,8 +24,8 @@ Our research rests on three interconnected pillars, applied to measles, rubella,
 ::: {.pillar-capital}
 :::
 ::: {.pillar-shaft}
-#### <i class="bi bi-bar-chart-line"></i> Scenario Modelling
-Mechanistic transmission models that evaluate vaccination strategies and chart pathways to elimination.
+#### <i class="bi bi-bar-chart-line"></i> Transmission and Intervention Modelling
+Mechanistic models that characterize disease dynamics and compare public health strategies.
 :::
 ::: {.pillar-base}
 :::
@@ -35,8 +35,8 @@ Mechanistic transmission models that evaluate vaccination strategies and chart p
 ::: {.pillar-capital}
 :::
 ::: {.pillar-shaft}
-#### <i class="bi bi-geo-alt"></i> Outbreak Prediction
-Machine learning that forecasts outbreak risk by integrating coverage, surveillance, and novel data streams.
+#### <i class="bi bi-geo-alt"></i> Prediction and Surveillance
+Statistical and machine learning methods that connect surveillance and contextual data to outbreak risk.
 :::
 ::: {.pillar-base}
 :::
@@ -46,8 +46,8 @@ Machine learning that forecasts outbreak risk by integrating coverage, surveilla
 ::: {.pillar-capital}
 :::
 ::: {.pillar-shaft}
-#### <i class="bi bi-droplet"></i> Seroepidemiology
-Statistical and machine-learning methods that turn serological data into actionable immunity estimates.
+#### <i class="bi bi-droplet"></i> Population Immunity and Seroepidemiology
+Methods that turn serological and population data into evidence about immunity and exposure.
 :::
 ::: {.pillar-base}
 :::
@@ -60,10 +60,10 @@ Statistical and machine-learning methods that turn serological data into actiona
 
 :::
 
-<p class="pillars-caption">Three pillars, one policy-driven approach to vaccine-preventable disease control.</p>
+<p class="pillars-caption">Three connected research areas, one policy-driven approach to infectious disease epidemiology.</p>
 
 ## Join the Lab
 
-We welcome graduate students and postdoctoral fellows with interests in infectious disease epidemiology, mathematical modelling, machine learning, and/or applied biostatistics. Students in the lab develop strong quantitative skills and work on projects with direct real-world relevance. If you are interested in joining, please reach out to Amy at [awinter@uga.edu](mailto:awinter@uga.edu).
+We welcome graduate students and postdoctoral fellows interested in infectious disease epidemiology and quantitative public health research. Lab members may work with mathematical modelling, statistical methods, machine learning, serological data, surveillance data, or applied biostatistics. Students develop strong quantitative skills while contributing to projects with direct public health relevance. If you are interested in joining, please reach out to Amy at [awinter@uga.edu](mailto:awinter@uga.edu).
 
 :::

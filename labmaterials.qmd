@@ -4,5 +4,5 @@ toc: false
 ---
 
 ::: {.content-container}
-- [Winter Research Group Manual](labmaterials/winter_reserach_group_manual.qmd)
+- [Winter Research Group Manual](labmaterials/Winter_Research_Group_Manual.qmd)
 :::

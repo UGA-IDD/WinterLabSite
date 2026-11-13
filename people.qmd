@@ -11,7 +11,7 @@ toc: false
     <option value="phd">PhD Students</option>
     <option value="masters">Masters Students</option>
     <option value="undergrad">Undergraduate Students</option>
-    <option value="previous">Previous Members</option>
+    <option value="previous">Former Members</option>
   </select>
   
   <select id="alpha-filter" class="filter-select">
@@ -20,6 +20,8 @@ toc: false
     <option value="b">B</option>
     <option value="c">C</option>
     <option value="f">F</option>
+    <option value="g">G</option>
+    <option value="l">L</option>
     <option value="r">R</option>
     <option value="w">W</option>
     </select>
@@ -130,8 +132,27 @@ toc: false
 :::
 
 ::: {.people-section id="sec-previous"}
-## Previous Members
+## Former Lab Members
 ::: {.people-grid}
+
+::: {.person-profile data-role="previous" data-lastname="g"}
+<div class="profile-placeholder" aria-hidden="true">IG</div>
+
+### [Indrajit Ghosh, PhD](https://www.linkedin.com/in/dr-indrajit-ghosh-bb6b87147/)
+**Former Postdoctoral Research Associate**<br>Assistant Professor, Bagchi School of Public Health<br>Ahmedabad University
+
+[<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/dr-indrajit-ghosh-bb6b87147/)
+:::
+
+::: {.person-profile data-role="previous" data-lastname="l"}
+<div class="profile-placeholder" aria-hidden="true">RL</div>
+
+### [Rayleen Lewis, PhD](https://www.researchgate.net/profile/Rayleen-Lewis)
+**Former PhD Student**<br>Epidemiologist<br>Centers for Disease Control and Prevention
+
+[<span class="profile-link-badge" aria-label="ResearchGate">RG</span>](https://www.researchgate.net/profile/Rayleen-Lewis)
+:::
+
 :::
 :::
 
