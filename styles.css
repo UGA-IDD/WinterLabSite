@@ -299,6 +299,153 @@ html[data-bs-theme="dark"] .quarto-title-banner {
 }
 
 /* =========================================
+   ABOUT PAGE — THREE PILLARS SCHEMATIC
+   ========================================= */
+.pillars-schematic {
+  max-width: 880px;
+  margin: 50px auto 18px;
+}
+
+.pillars-roof {
+  height: 46px;
+  clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+  background-color: #2c3e50;
+}
+
+.pillars-entablature {
+  height: 14px;
+  background-color: #2c3e50;
+  border-radius: 2px;
+  margin-top: 2px;
+}
+
+.pillars-row {
+  display: flex;
+  gap: 24px;
+  margin-top: 4px;
+  align-items: stretch;
+}
+
+.pillar {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.pillar-capital {
+  height: 10px;
+  background-color: #ba0c2f;
+  border-radius: 2px 2px 0 0;
+}
+
+.pillar-shaft {
+  flex: 1;
+  background-color: #ffffff;
+  border-left: 3px solid #ba0c2f;
+  border-right: 3px solid #ba0c2f;
+  padding: 26px 18px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.pillar-shaft i {
+  font-size: 1.9rem;
+  color: #ba0c2f;
+}
+
+.pillar-shaft h4 {
+  color: #2c3e50;
+  margin: 12px 0 8px;
+  font-size: 1.05rem;
+}
+
+.pillar-shaft h4 .anchorjs-link,
+.pillar-shaft h4 a.anchorjs-link {
+  display: none !important;
+}
+
+.pillar-shaft p {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0;
+}
+
+.pillar-base {
+  height: 10px;
+  background-color: #ba0c2f;
+  border-radius: 0 0 2px 2px;
+}
+
+.pillars-foundation {
+  height: 16px;
+  background-color: #2c3e50;
+  border-radius: 2px;
+  margin-top: 4px;
+}
+
+.pillars-caption {
+  text-align: center;
+  margin-top: 16px;
+  color: #555;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+@media (max-width: 700px) {
+  .pillars-row {
+    flex-direction: column;
+    gap: 18px;
+  }
+  .pillars-roof {
+    clip-path: none;
+    height: 10px;
+    border-radius: 2px;
+  }
+}
+
+body.quarto-dark .pillars-roof,
+html[data-bs-theme="dark"] .pillars-roof,
+body.quarto-dark .pillars-entablature,
+html[data-bs-theme="dark"] .pillars-entablature,
+body.quarto-dark .pillars-foundation,
+html[data-bs-theme="dark"] .pillars-foundation {
+  background-color: #3a4a5c !important;
+}
+
+body.quarto-dark .pillar-shaft,
+html[data-bs-theme="dark"] .pillar-shaft {
+  background-color: #121212 !important;
+  border-left-color: #ff4d4d !important;
+  border-right-color: #ff4d4d !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8) !important;
+}
+
+body.quarto-dark .pillar-capital,
+html[data-bs-theme="dark"] .pillar-capital,
+body.quarto-dark .pillar-base,
+html[data-bs-theme="dark"] .pillar-base {
+  background-color: #ff4d4d !important;
+}
+
+body.quarto-dark .pillar-shaft i,
+html[data-bs-theme="dark"] .pillar-shaft i {
+  color: #ff4d4d !important;
+}
+
+body.quarto-dark .pillar-shaft h4,
+html[data-bs-theme="dark"] .pillar-shaft h4 {
+  color: #f8f9fa !important;
+}
+
+body.quarto-dark .pillar-shaft p,
+html[data-bs-theme="dark"] .pillar-shaft p,
+body.quarto-dark .pillars-caption,
+html[data-bs-theme="dark"] .pillars-caption {
+  color: #cccccc !important;
+}
+
+/* =========================================
    FOOTER / DISCLAIMER STYLING
    ========================================= */
 .nav-footer {
