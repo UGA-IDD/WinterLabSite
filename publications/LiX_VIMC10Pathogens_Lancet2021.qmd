@@ -1,0 +1,10 @@
+---
+title: "Estimating the health impact of vaccination against 10 pathogens in 98 low- and middle-income countries from 2000 to 2030"
+author: "Xiang Li, Christinah Mukandavire, Zulma M. Cucunubá, Sebastian Londono, Kaja Abbas, Hannah E. Clapham, ..., Amy Winter, ..., Tini Garske (Vaccine Impact Modelling Consortium)"
+date: "2021-01-01"
+categories: [Scenario Modelling, Vaccine Impact Modelling Consortium, modelling, global health impact]
+description: "A Vaccine Impact Modelling Consortium analysis estimating the health impact of vaccination against 10 pathogens across 98 low- and middle-income countries, 2000–2030."
+---
+
+**Published in:** *The Lancet.* 2021;397(10272):398–408.
+**DOI:** [10.1016/S0140-6736(20)32657-X](https://doi.org/10.1016/S0140-6736(20)32657-X)

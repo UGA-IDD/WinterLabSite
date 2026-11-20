@@ -1,0 +1,10 @@
+---
+title: "Rubella Vaccine Introduction in the South African Public Vaccination Schedule: Mathematical Modelling for Decision Making"
+author: "Nkengafac Villyen Motaze, Ijeoma Edoka, Charles S. Wiysonge, C. Jessica E. Metcalf, Amy K. Winter"
+date: "2020-01-01"
+categories: [Scenario Modelling, rubella, South Africa, modelling, decision making]
+description: "Uses mathematical modelling to inform the decision to introduce rubella vaccine into South Africa's public vaccination schedule."
+---
+
+**Published in:** *Vaccines.* 2020;8(3):383.
+**DOI:** [10.3390/vaccines8030383](https://doi.org/10.3390/vaccines8030383)

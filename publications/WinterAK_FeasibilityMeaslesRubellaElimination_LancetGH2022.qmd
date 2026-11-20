@@ -1,0 +1,10 @@
+---
+title: "Feasibility of measles and rubella vaccination programmes for disease elimination: a modelling study"
+author: "Amy K. Winter, Ben Lambert, Daniel Klein, Petra Klepac, Tara Papadopoulos, Shaun Truelove, et al."
+date: "2022-01-01"
+categories: [Scenario Modelling, measles, rubella, elimination, modelling]
+description: "Models the feasibility of measles and rubella elimination across countries under current and strengthened vaccination programmes."
+---
+
+**Published in:** *Lancet Global Health.* 2022;10(10):e1412–e1422.
+**DOI:** [10.1016/S2214-109X(22)00335-7](https://doi.org/10.1016/S2214-109X(22)00335-7)

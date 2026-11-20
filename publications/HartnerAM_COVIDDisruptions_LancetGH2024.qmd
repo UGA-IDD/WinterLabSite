@@ -1,0 +1,9 @@
+---
+title: "Estimating the health effects of COVID-19-related immunisation disruptions in 112 countries during 2020–30: a modelling study"
+author: "Allison M. Hartner, Xiang Li, Sebastian Echeverria-Londono, ..., Amy Winter, et al."
+date: "2024-01-01"
+categories: [Scenario Modelling, COVID-19 and Immunisation Systems, modelling, immunisation disruption]
+description: "Models the long-term health effects of COVID-19-related disruptions to routine immunisation programmes across 112 countries."
+---
+
+**Published in:** *Lancet Global Health.* 2024;12(4):e563–e571.

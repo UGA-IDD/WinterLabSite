@@ -1,0 +1,10 @@
+---
+title: "Seasonal gaps in measles vaccination coverage in Madagascar"
+author: "Kathryn Mensah, Jean-Michel Heraud, Saki Takahashi, Amy K. Winter, C. Jessica E. Metcalf, Amy Wesolowski"
+date: "2019-01-01"
+categories: [Outbreak Prediction, measles, Madagascar, vaccination coverage]
+description: "Identifies seasonal gaps in routine measles vaccination coverage in Madagascar that create windows of outbreak vulnerability."
+---
+
+**Published in:** *Vaccine.* 2019;37(18):2511–2519.
+**DOI:** [10.1016/j.vaccine.2019.02.069](https://doi.org/10.1016/j.vaccine.2019.02.069)

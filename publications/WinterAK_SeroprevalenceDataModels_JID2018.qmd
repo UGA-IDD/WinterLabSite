@@ -1,0 +1,10 @@
+---
+title: "Benefits and Challenges in Using Seroprevalence Data to Inform Models for Measles and Rubella Elimination"
+author: "Amy K. Winter, Megan E. Martinez, Felicity T. Cutts, William J. Moss, Matthew J. Ferrari, Amy McKee, Justin Lessler, Kyla Hayford, Jacco Wallinga, C. Jessica E. Metcalf"
+date: "2018-01-01"
+categories: [Seroepidemiology, measles, rubella, serosurvey, modelling]
+description: "Examines how seroprevalence data can strengthen — and where it can mislead — mathematical models used to guide measles and rubella elimination."
+---
+
+**Published in:** *Journal of Infectious Diseases.* 2018;218(3):355–364.
+**DOI:** [10.1093/infdis/jiy137](https://doi.org/10.1093/infdis/jiy137)

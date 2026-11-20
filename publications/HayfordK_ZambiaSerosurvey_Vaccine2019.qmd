@@ -1,0 +1,10 @@
+---
+title: "Measles and rubella serosurvey identifies rubella immunity gap in young adults of childbearing age in Zambia: the added value of nesting a serological survey within a post-campaign coverage evaluation survey"
+author: "Kyla Hayford, Simon Mutembo, Andrea Carcelen, Hope K. Matakala, Phillimon Munachoonga, Amy Winter, et al."
+date: "2019-01-01"
+categories: [Seroepidemiology, rubella, measles, Zambia, serosurvey]
+description: "A nested serosurvey in Zambia reveals a rubella immunity gap among young adults of childbearing age, with implications for congenital rubella syndrome risk."
+---
+
+**Published in:** *Vaccine.* 2019;37(17):2387–2393.
+**DOI:** [10.1016/j.vaccine.2019.02.037](https://doi.org/10.1016/j.vaccine.2019.02.037)

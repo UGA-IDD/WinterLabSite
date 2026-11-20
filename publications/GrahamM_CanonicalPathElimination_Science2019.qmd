@@ -1,0 +1,10 @@
+---
+title: "Measles and the canonical path to elimination"
+author: "Matthew Graham*, Amy K. Winter*, Matthew Ferrari, Bryan Grenfell, William J. Moss, Andrew S. Azman, C. Jessica E. Metcalf, Justin Lessler"
+date: "2019-01-01"
+categories: [Scenario Modelling, measles, elimination, modelling]
+description: "Defines the canonical immunity path a population must follow to reach and sustain measles elimination. (*equal contribution)"
+---
+
+**Published in:** *Science.* 2019;364(6440):584–587.
+**DOI:** [10.1126/science.aau6299](https://doi.org/10.1126/science.aau6299)

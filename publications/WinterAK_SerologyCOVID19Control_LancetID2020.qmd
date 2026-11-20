@@ -1,0 +1,10 @@
+---
+title: "The important role of serology for COVID-19 control"
+author: "Amy K. Winter, Sonia T. Hegde"
+date: "2020-01-01"
+categories: [COVID-19 and Immunisation Systems, Seroepidemiology, COVID-19, serology]
+description: "Argues for the role of serological surveillance in understanding and controlling the COVID-19 pandemic."
+---
+
+**Published in:** *Lancet Infectious Diseases.* 2020.
+**DOI:** [10.1016/S1473-3099(20)30322-4](https://doi.org/10.1016/S1473-3099(20)30322-4)
