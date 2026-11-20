@@ -1,0 +1,10 @@
+---
+title: "COVID-19 vaccine hesitancy in Zambia: a glimpse at the possible challenges ahead for COVID-19 vaccination rollout in sub-Saharan Africa"
+author: "Andrea C. Carcelen, Christine Prosperi, Simon Mutembo, Gershom Chongwe, Francis Dien Mwansa, ..., Amy Winter, et al."
+date: "2022-01-01"
+categories: [COVID-19 and Immunisation Systems, COVID-19, Zambia, vaccine hesitancy, sub-Saharan Africa]
+description: "Examines drivers of COVID-19 vaccine hesitancy in Zambia and the implications for vaccine rollout across sub-Saharan Africa."
+---
+
+**Published in:** *Human Vaccines & Immunotherapeutics.* 2022;18(1).
+**DOI:** [10.1080/21645515.2021.1948716](https://doi.org/10.1080/21645515.2021.1948716)

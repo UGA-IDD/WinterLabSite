@@ -2,7 +2,7 @@
 title: "PREPRINT: Tetanus seroprevalence among children in Ndola and Choma Districts, Zambia, 2022"
 author: "Connor Ross, Amy Winter"
 date: "2026-02-23"
-categories: [Preprint, Zambia, serology, seroprevalence, tetanus, vaccine preventable diseases]
+categories: [Seroepidemiology, Preprint, Zambia, serology, seroprevalence, tetanus, vaccine preventable diseases]
 description: "Residual samples are useful and easy tool to conduct serosurveys. These survey provide direct information regarding vaccine programs."
 ---
 

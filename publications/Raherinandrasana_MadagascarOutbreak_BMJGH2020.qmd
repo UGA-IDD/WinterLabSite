@@ -1,0 +1,10 @@
+---
+title: "Towards better targeting: lessons learned from a measles outbreak in Madagascar 2018–2019"
+author: "Anjalala Harijaona Raherinandrasana, C. Jessica E. Metcalf, Jean-Michel Heraud, Simon Cauchemez, Amy Winter, Amy Wesolowski, et al."
+date: "2020-01-01"
+categories: [Outbreak Prediction, measles, Madagascar, surveillance]
+description: "Draws lessons from the 2018–2019 Madagascar measles outbreak to improve targeting of vaccination and outbreak response."
+---
+
+**Published in:** *BMJ Global Health.* 2020;5(10):e003153.
+**DOI:** [10.1136/bmjgh-2020-003153](https://doi.org/10.1136/bmjgh-2020-003153)

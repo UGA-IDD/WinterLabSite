@@ -1,0 +1,9 @@
+---
+title: "Rubella"
+author: "Amy K. Winter, William J. Moss"
+date: "2022-01-01"
+categories: [Seroepidemiology, rubella, review]
+description: "A review of rubella epidemiology, congenital rubella syndrome, and vaccination strategies."
+---
+
+**Published in:** *The Lancet.* 2022;399(10332):1336–1346.

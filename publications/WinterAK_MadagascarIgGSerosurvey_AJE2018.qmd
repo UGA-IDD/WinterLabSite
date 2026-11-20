@@ -1,0 +1,10 @@
+---
+title: "Revealing Measles Outbreak Risk With a Nested Immunoglobulin G Serosurvey in Madagascar"
+author: "Amy K. Winter, Amy P. Wesolowski, Kathryn J. Mensah, Mihaja B. Ramamonjiharisoa, et al."
+date: "2018-01-01"
+categories: [Outbreak Prediction, Seroepidemiology, measles, Madagascar, serosurvey]
+description: "Uses a nested IgG serosurvey in Madagascar to reveal subnational measles outbreak risk missed by routine coverage data."
+---
+
+**Published in:** *American Journal of Epidemiology.* 2018;187(10):2219–2226.
+**DOI:** [10.1093/aje/kwy114](https://doi.org/10.1093/aje/kwy114)

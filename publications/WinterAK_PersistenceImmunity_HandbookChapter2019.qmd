@@ -1,0 +1,9 @@
+---
+title: "Persistence of Passive Immunity, Natural Immunity and Vaccination"
+author: "Amy K. Winter, C. Jessica E. Metcalf"
+date: "2019-01-01"
+categories: [Seroepidemiology, book chapter, immunity]
+description: "A book chapter on how passive, natural, and vaccine-derived immunity persist over time and what that means for infectious disease data analysis."
+---
+
+**Published in:** Held L, Hens N, O'Neill P, Wallinga J, editors. *The Handbook of Infectious Disease Data Analysis.* Chapman & Hall/CRC; 2019.

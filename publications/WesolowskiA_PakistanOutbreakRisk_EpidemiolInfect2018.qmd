@@ -1,0 +1,10 @@
+---
+title: "Measles outbreak risk in Pakistan: exploring the potential of combining vaccination coverage and incidence data with novel data-streams to strengthen control"
+author: "Amy Wesolowski, Amy Winter, Andrew J. Tatem, et al."
+date: "2018-01-01"
+categories: [Outbreak Prediction, measles, Pakistan, novel data streams]
+description: "Explores combining coverage and incidence data with novel data streams to better predict measles outbreak risk in Pakistan."
+---
+
+**Published in:** *Epidemiology and Infection.* 2018;146(12):1575–1583.
+**DOI:** [10.1017/S0950268818001449](https://doi.org/10.1017/S0950268818001449)

@@ -1,0 +1,10 @@
+---
+title: "Long-term measles antibody profiles following different vaccine schedules in China, a longitudinal study"
+author: "Qiru Wang, Wenzhou Wang, Amy K. Winter, Zhuoying Zhan, et al."
+date: "2023-01-01"
+categories: [Seroepidemiology, measles, China, longitudinal study]
+description: "Tracks long-term measles antibody profiles in China across different vaccine schedules using longitudinal serological data."
+---
+
+**Published in:** *Nature Communications.* 2023;14(1):1746.
+**DOI:** [10.1038/s41467-023-37198-1](https://doi.org/10.1038/s41467-023-37198-1)

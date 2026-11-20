@@ -1,0 +1,10 @@
+---
+title: "Rubella vaccination in India: identifying broad consequences of vaccine introduction and key knowledge gaps"
+author: "Amy K. Winter, Sonia Pramanik, Justin Lessler, Matthew Ferrari, Bryan T. Grenfell, C. Jessica E. Metcalf"
+date: "2018-01-01"
+categories: [Scenario Modelling, Seroepidemiology, rubella, India, modelling]
+description: "Models the broader population-level consequences of introducing rubella vaccination in India and identifies key gaps in surveillance and immunity data."
+---
+
+**Published in:** *Epidemiology and Infection.* 2018;146(1):65–77.
+**DOI:** [10.1017/S0950268817002527](https://doi.org/10.1017/S0950268817002527)
